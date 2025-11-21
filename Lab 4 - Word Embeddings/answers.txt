@@ -1,0 +1,42 @@
+
+Student 1: HanaMostafa
+Student 2: FatmaZenhom
+
+Q1:
+
+Number of unique words in our vocab |V|
+
+
+Q2:
+
+dimension of the word embedding 
+
+
+Predicted Country:
+Egypt
+
+Predicted Similarity:
+0.7626820802688599
+
+Q3:
+
+Yes
+
+
+Q4:
+
+Yes as it is close to 1, which mean they have close meaning / context 
+
+
+Computed Accuracy:
+0.9192082407594425
+
+Q5:
+
+Yes
+
+
+Q6:
+
+we can see that gas, oil, petroleum which logically have the same context are having close vector represenattion same for happy, joyfull and sad which represent feelings and so on
+
